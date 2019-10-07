@@ -1,0 +1,20 @@
+{
+  "name": "github-client",
+  "version": "1",
+  "main": "index.js",
+  "repository": "https://github.com/ocben1/github-client.git",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.1.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  },
+  "scripts": {
+    "dev": "next"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-module-resolver": "^3.2.0"
+  }
+}
